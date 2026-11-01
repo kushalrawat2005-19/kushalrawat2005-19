@@ -46,8 +46,10 @@ Delivered two data projects (housing price analysis + cardiovascular disease pre
 
 ## 📊 GitHub Stats
 
-![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushalrawat2005-19&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalrawat2005-19&layout=compact)
+![Kushal's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushalrawat2005-19&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=kushalrawat2005-19&theme=default)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushalrawat2005-19&theme=default)
+![Profile views](https://komarev.com/ghpvc/?username=kushalrawat2005-19&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📫 Connect With Me
 
