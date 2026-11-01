@@ -1,9 +1,11 @@
 # Hi, I'm Kushal Rawat 👋
 
-**Data Analyst | Data Science Intern @ Elewayte | Python, SQL, Excel, pandas**
+**Aspiring Data Analyst | Data Science Internship completed @ Elewayte | Python, SQL, Excel, pandas | BCA (AI & DS) @ JECRC University**
 📍 Jaipur, Rajasthan, India
 
 Detail-oriented BCA (AI & Data Science) student with a completed Data Science internship and hands-on experience analysing real datasets of **545 to 300,000+ records** using Python and pandas. Skilled in cleaning and validating data, identifying trends and patterns, and presenting insights through clear charts and reports. Strong analytical and problem-solving skills, with working knowledge of SQL and MS Excel.
+
+🎓 **Currently:** Pursuing BCA (AI & Data Science) at JECRC University, Jaipur (2024–2027). My Data Science internship at Elewayte is **completed** — I am now actively looking for **Data Analyst roles and paid internships**.
 
 ## 🔭 Featured Projects
 
@@ -24,12 +26,12 @@ Minor project @ Elewayte — EDA of **545 house listings**. Found 58% of houses 
 
 ## 💼 Experience
 
-**Data Science Intern — Elewayte** (Internship Partner: Cubestech) · Aug 2026 – Sep 2026
+**Data Science Intern — Elewayte** (Internship Partner: Cubestech) · Aug 2026 – Sep 2026 · ✅ Completed
 Delivered two data projects (housing price analysis + cardiovascular disease prediction on 308,854 records). Cleaned and prepared data, performed exploratory analysis and visualisation in Python, and reported findings and model results clearly. Certificate ID: IC820264797
 
 ## 🎓 Education
 
-**BCA — AI & Data Science, JECRC University, Jaipur** · 2024 – 2027 (expected) · CGPA 7.14/10
+**BCA — AI & Data Science, JECRC University, Jaipur** · 2024 – 2027 (expected) · CGPA 7.14/10 · Currently pursuing
 
 ## 📜 Certifications
 
@@ -52,4 +54,4 @@ Delivered two data projects (housing price analysis + cardiovascular disease pre
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-rawat-data/)
 [![Email](https://img.shields.io/badge/Email-kushalrawat2005.19@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kushalrawat2005.19@gmail.com)
 
-*Open to Data Analyst roles — Jaipur / Hybrid / Remote*
+*Open to Data Analyst roles & paid internships — Jaipur (On-site) / Remote*
